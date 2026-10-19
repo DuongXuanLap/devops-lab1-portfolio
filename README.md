@@ -2,7 +2,7 @@
 
 Lab 1 — DevOps Course: My First CI/CD Pipeline
 
-++Thông tin:++
+Thông tin:
 - Dương Xuân Lập
 - DTC235180108
 - KTPM K22B
