@@ -18,7 +18,7 @@ Chấm điểm team/ cá nhân bạn theo thang 1-5:
 | **L**ean | Setup môi trường mất > 1 ngày | Có script, Docker 1 phần | 1 lệnh → môi trường sẵn sàng | 5/5 |
 | **M**easurement | Không biết app có đang chạy không | Có monitoring cơ bản | Dashboard real-time + alert | 3/5 |
 | **S**haring | Mỗi người tự biết, không document | Có wiki nội bộ | Code review + post-mortem + knowledge sharing | 3/5 |
-| **TỔNG** | | | | **/25** |
+| **TỔNG** | | | | **21/25** |
 
 ### 5.2 Kế hoạch Cải thiện
 
